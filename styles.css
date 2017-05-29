@@ -1,0 +1,47 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 20px;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+/* Custom page CSS
+-------------------------------------------------- */
+
+
+.AboutMe img{
+	display: inline;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+
+.AboutMe{
+	border: 1px solid #dddddd;
+}
+
+.SocialBox{
+	border: 1px solid #dddddd;
+}
+
+.SocialBox img{
+	width: 50px;
+	padding-bottom: 10px;
+}
+
+nav{
+	background-color: 
+}
+
