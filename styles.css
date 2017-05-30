@@ -15,7 +15,18 @@ body {
   padding: 20px;
   /* Set the fixed height of the footer here */
   height: 60px;
-  background-color: #f5f5f5;
+  background-color: #666666;
+  border-top: 3px solid #4aaaa5;
+  color: white;
+}
+
+.navbar-header h1{
+	margin: 0px;
+	background-color: #4aaaa5;
+}
+
+.navbar-brand {
+	color: white !important;
 }
 
 /* Custom page CSS
@@ -52,5 +63,9 @@ nav{
 .Contact{
 	padding-top: 15px;
 	padding-bottom: 15px;
+}
+
+.Portfolio img:hover{
+	opacity: 0.7;
 }
 
