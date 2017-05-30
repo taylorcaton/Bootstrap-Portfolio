@@ -32,6 +32,11 @@ body {
 	color: white !important;
 }
 
+.navbar-brand:hover, .navbar-brand:focus {
+  background-color: #4aaaa5 !important;
+  color: #999999;
+}
+
 /* Custom page CSS
 -------------------------------------------------- */
 
