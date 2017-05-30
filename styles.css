@@ -1,12 +1,14 @@
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
+  background-image: url("images/playstation-pattern.png");
   position: relative;
   min-height: 100%;
 }
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
+  background-color: transparent;
 }
 .footer {
   position: absolute;
@@ -43,11 +45,13 @@ body {
 .AboutMe{
 	border: 1px solid #dddddd;
 	margin-bottom: 15px;
+	background-color: white;
 }
 
 .SocialBox{
 	border: 1px solid #dddddd;
 	margin-bottom: 15px;
+	background-color: white;
 }
 
 .SocialBox img{
@@ -66,6 +70,7 @@ nav{
 .Contact{
 	padding-top: 15px;
 	padding-bottom: 15px;
+
 }
 
 .Portfolio img:hover{
