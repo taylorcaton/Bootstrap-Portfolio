@@ -23,6 +23,7 @@ body {
 .navbar-header h1{
 	margin: 0px;
 	background-color: #4aaaa5;
+	margin-left: 0px !important; 
 }
 
 .navbar-brand{
