@@ -53,6 +53,11 @@ body {
 	background-color: white;
 }
 
+.AboutMe h3, .SocialBox h3{
+	color: #4aaaa5;
+	margin-bottom: -15px;
+}
+
 .SocialBox{
 	border: 1px solid #dddddd;
 	margin-bottom: 15px;
