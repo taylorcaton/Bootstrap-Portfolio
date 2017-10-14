@@ -55,13 +55,13 @@ hr.star-light {
 
 hr.star-light:after {
   color: white;
-  background-color: #18BC9C; }
+  background-color: #464a4e; }
 
 hr.star-primary {
-  border-color: #2C3E50; }
+  border-color: #464a4e; }
 
 hr.star-primary:after {
-  color: #2C3E50;
+  color: #464a4e;
   background-color: white; }
 
 .img-centered {
@@ -70,12 +70,13 @@ hr.star-primary:after {
 section {
   padding: 100px 0; }
   section h2 {
+    color: #464a4e;
     font-size: 3em;
     margin: 0; }
 
 section.success {
   color: white;
-  background: #18BC9C; }
+  background: #464a4e; }
 
 @media (max-width: 767px) {
   section {
@@ -163,7 +164,9 @@ header.masthead {
   padding-bottom: 50px;
   text-align: center;
   color: white;
-  background: #18BC9C; }
+  background: #464a4e;
+
+}
   header.masthead img {
     display: block;
     margin: 0 auto 20px; }
@@ -222,6 +225,7 @@ header.masthead {
           margin: 0; }
 
 #portfolio * {
+  color: #464a4e;
   z-index: 2; }
 
 @media (min-width: 767px) {
@@ -399,8 +403,8 @@ footer {
 .btn-success {
   font-weight: 700;
   color: white;
-  border-color: #18BC9C;
-  background-color: #18BC9C; }
+  border-color: #464a4e;
+  background-color: #464a4e; }
   .btn-success.focus, .btn-success:focus {
     color: white;
     border-color: #0a4b3e;
